@@ -1,5 +1,5 @@
 # 👋 Hello developer!
-This project contains a basic HTML structure to get you started. Check our [tutorials for frontend development](https://www.w3schools.com/where_to_start.asp) to learn the basics of [HTML](https://www.w3schools.com/html/default.asp) and [CSS](https://www.w3schools.com/css/default.asp). 🦄
+This site will give you a simple walk through of how to set up a Github Pages site using Github Desktop and your favorite IDE.
 
 
 ## 🏗 What's next?
@@ -26,16 +26,6 @@ Use these four files as your starting point:
 
 - **Images:** Upload images and add their URLs to your code.  
 	[Go to article about how to upload files](https://support.w3schools.com/hc/en-gb/articles/4410414928017)
-
-> ⚡️ **Tip:** [Set up Google Analytics](https://www.w3schools.com/howto/howto_google_analytics.asp) to get valuable insights about your space and visitors. 
-	
-
-### ⛑ Need support?
-[Join our Discord community](https://discord.gg/6Z7UaRbUQM) and ask questions in the **#spaces-general** channel.
-
-
-### 🚀 Upgrade to Pro
-[Upgrade your account](https://billing.w3schools.com/products/spaces) to boost your space and take your projects to the next level; more requests, more storage and more power for up to 10 spaces.
 
 
 Happy learning!
